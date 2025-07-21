@@ -1,0 +1,14 @@
+wwwroot\about.html
+wwwroot\add-student.html
+wwwroot\edit-student.html
+wwwroot\scripts.js
+wwwroot\students.html
+wwwroot\index.html
+wwwroot\styles.css
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\scripts.js
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\about.html
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\add-student.html
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\edit-student.html
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\students.html
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\index.html
+C:\Users\رحمه صبرى\OneDrive\سطح المكتب\رواد مصر الرقميه\Thechnical\Task1_iNNOTECH\wwwroot\styles.css
