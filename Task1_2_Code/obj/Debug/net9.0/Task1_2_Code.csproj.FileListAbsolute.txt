@@ -1,0 +1,15 @@
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.AssemblyInfoInputs.cache
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.AssemblyInfo.cs
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.csproj.CoreCompileInputs.cache
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.sourcelink.json
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\bin\Debug\net9.0\Task1_2_Code.exe
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\bin\Debug\net9.0\Task1_2_Code.deps.json
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\bin\Debug\net9.0\Task1_2_Code.runtimeconfig.json
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\bin\Debug\net9.0\Task1_2_Code.dll
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\bin\Debug\net9.0\Task1_2_Code.pdb
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.dll
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\refint\Task1_2_Code.dll
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.pdb
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\Task1_2_Code.genruntimeconfig.cache
+C:\Users\رحمه صبرى\source\repos\iNNOTECH_Intern\Task1_2_Code\obj\Debug\net9.0\ref\Task1_2_Code.dll

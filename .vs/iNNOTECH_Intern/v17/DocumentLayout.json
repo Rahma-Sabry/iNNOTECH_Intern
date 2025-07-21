@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u0631\u062D\u0645\u0647 \u0635\u0628\u0631\u0649\\source\\repos\\iNNOTECH_Intern\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0631\u062D\u0645\u0647 \u0635\u0628\u0631\u0649\\source\\repos\\iNNOTECH_Intern\\Task1_2\\Code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1_2\\Code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Code.cs",
+              "DocumentMoniker": "C:\\Users\\\u0631\u062D\u0645\u0647 \u0635\u0628\u0631\u0649\\source\\repos\\iNNOTECH_Intern\\Task1_2\\Code.cs",
+              "RelativeDocumentMoniker": "Task1_2\\Code.cs",
+              "ToolTip": "C:\\Users\\\u0631\u062D\u0645\u0647 \u0635\u0628\u0631\u0649\\source\\repos\\iNNOTECH_Intern\\Task1_2\\Code.cs",
+              "RelativeToolTip": "Task1_2\\Code.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:21:25.937Z",
+              "EditorCaption": ""
             }
           ]
         }
