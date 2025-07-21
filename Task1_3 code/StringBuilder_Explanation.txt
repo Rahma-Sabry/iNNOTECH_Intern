@@ -1,0 +1,52 @@
+StringBuilder in C#
+
+StringBuilder is a class in the System.Text namespace used for efficiently manipulating strings in C#. Unlike regular string concatenation, which creates new string objects for each operation (since strings are immutable), StringBuilder modifies the string buffer in place, improving performance especially in scenarios with many string operations.
+
+Basic Usage Example:
+--------------------
+using System.Text;
+
+StringBuilder sb = new StringBuilder();
+sb.Append("Hello");
+sb.Append(", ");
+sb.Append("World!");
+string result = sb.ToString(); // "Hello, World!"
+
+Key Points:
+-----------
+- Use StringBuilder when you need to perform repeated modifications or concatenations to strings.
+- StringBuilder reduces memory usage and improves speed compared to using the '+' operator for many concatenations.
+- Common methods: Append, AppendLine, Insert, Remove, Replace, ToString.
+
+Why not use a normal string variable type?
+
+In C#, strings are immutable. This means that every time you modify a string (such as concatenating with + or +=), a new string object is created in memory. If you perform many string operations, this can lead to:
+- Increased memory usage due to multiple intermediate string objects.
+- Slower performance because of frequent memory allocations and garbage collection.
+
+StringBuilder solves this problem by providing a mutable buffer for string manipulation. It allows you to efficiently build or modify strings without creating many temporary objects.
+
+When to prefer StringBuilder:
+-----------------------------
+- When you need to concatenate strings inside loops.
+- When you perform many modifications to a string.
+- When performance and memory usage are important.
+
+Example Comparison:
+-------------------
+string result = "";
+for (int i = 0; i < 1000; i++)
+{
+    result += i.ToString(); // Inefficient: creates many string objects
+}
+
+StringBuilder sb = new StringBuilder();
+for (int i = 0; i < 1000; i++)
+{
+    sb.Append(i.ToString()); // Efficient: modifies buffer in place
+}
+string result = sb.ToString();
+
+References:
+-----------
+- https://learn.microsoft.com/en-us/dotnet/api/system.text.stringbuilder
